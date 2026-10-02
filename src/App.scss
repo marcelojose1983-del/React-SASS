@@ -1,0 +1,11 @@
+@import "./styles/variables";
+
+.container {
+  background-color: $secondary-color;
+  padding: $padding-base;
+  color: white;
+
+  h1 {
+    color: $primary-color;
+  }
+}
